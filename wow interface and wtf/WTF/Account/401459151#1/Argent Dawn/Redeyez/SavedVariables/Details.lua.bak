@@ -1,0 +1,3876 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 2,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 630,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004819,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 20438,
+							},
+							["serial"] = "Player-3702-08D6A984",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 20438.004819,
+							["spec"] = 63,
+							["dps_started"] = false,
+							["end_time"] = 1561559721,
+							["on_hold"] = false,
+							["last_event"] = 1561559717,
+							["nome"] = "Redeyez",
+							["spells"] = {
+								["_ActorTable"] = {
+									[205345] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3438,
+										["g_amt"] = 0,
+										["n_max"] = 591,
+										["targets"] = {
+											["Raider's Training Dummy"] = 5103,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1665,
+										["n_min"] = 537,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 5103,
+										["c_max"] = 1182,
+										["id"] = 205345,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1074,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[226757] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 289,
+										["g_amt"] = 0,
+										["n_max"] = 112,
+										["targets"] = {
+											["Raider's Training Dummy"] = 401,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 112,
+										["n_min"] = 112,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 401,
+										["c_max"] = 289,
+										["id"] = 226757,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 289,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[12654] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2489,
+										["targets"] = {
+											["Raider's Training Dummy"] = 14934,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14934,
+										["n_min"] = 2489,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 14934,
+										["c_max"] = 0,
+										["id"] = 12654,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 3132.261274943577,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004819,
+							["start_time"] = 1561559715,
+							["delay"] = 0,
+							["total"] = 20438.004819,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.0033,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.0033,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.0033,
+							["serial"] = "Creature-0-3894-1-9-31146-000092D108",
+							["damage_taken"] = 20438.0033,
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559721,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559721,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 630,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 630,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 630,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[12654] = {
+										["activedamt"] = -3,
+										["id"] = 12654,
+										["targets"] = {
+										},
+										["actived_at"] = 1561559717,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[226757] = {
+										["activedamt"] = -1,
+										["id"] = 226757,
+										["targets"] = {
+										},
+										["actived_at"] = 1561559717,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[116267] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 116267,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[267685] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 267685,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 279902,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279715] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 279715,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[272934] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 272934,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[157644] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 157644,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 1459,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 63,
+							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1561559721,
+							["nome"] = "Redeyez",
+							["buff_uptime"] = 45,
+							["serial"] = "Player-3702-08D6A984",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 630,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Redeyez"] = true,
+				},
+				["CombatStartedAt"] = 29624.711,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 711,
+				["playing_solo"] = true,
+				["totals"] = {
+					20438, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					20438, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:35:21",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 6.42500000000291,
+				["CombatEndedAt"] = 29631.136,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:35:15",
+				["end_time"] = 29631.136,
+				["combat_id"] = 630,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Redeyez"] = 20438.004819,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1561559715,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 29624.611,
+				["TimeData"] = {
+				},
+				["frags"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 629,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007245,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 1378594,
+								["Training Dummy"] = 20888,
+							},
+							["serial"] = "Player-3702-08D6A984",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1399482.007245,
+							["spec"] = 63,
+							["dps_started"] = false,
+							["total"] = 1399482.007245,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1561559715,
+							["nome"] = "Redeyez",
+							["spells"] = {
+								["_ActorTable"] = {
+									[153564] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 27609,
+										["g_amt"] = 0,
+										["n_max"] = 6906,
+										["targets"] = {
+											["Raider's Training Dummy"] = 55217,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 27608,
+										["n_min"] = 6898,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 55217,
+										["c_max"] = 13812,
+										["id"] = 153564,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 13797,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[155158] = {
+										["c_amt"] = 33,
+										["b_amt"] = 0,
+										["c_dmg"] = 46640,
+										["g_amt"] = 0,
+										["n_max"] = 731,
+										["targets"] = {
+											["Raider's Training Dummy"] = 57076,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10436,
+										["n_min"] = 641,
+										["g_dmg"] = 0,
+										["counter"] = 48,
+										["total"] = 57076,
+										["c_max"] = 1516,
+										["id"] = 155158,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1282,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[133] = {
+										["c_amt"] = 10,
+										["b_amt"] = 0,
+										["c_dmg"] = 115997,
+										["g_amt"] = 0,
+										["n_max"] = 6417,
+										["targets"] = {
+											["Raider's Training Dummy"] = 230647,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 114650,
+										["n_min"] = 5117,
+										["g_dmg"] = 0,
+										["counter"] = 30,
+										["total"] = 230647,
+										["c_max"] = 12069,
+										["id"] = 133,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 10460,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2784,
+										["g_amt"] = 0,
+										["n_max"] = 1392,
+										["targets"] = {
+											["Raider's Training Dummy"] = 6960,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4176,
+										["n_min"] = 1392,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 6960,
+										["c_max"] = 2784,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2784,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[2948] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 12137,
+										["g_amt"] = 0,
+										["n_max"] = 1517,
+										["targets"] = {
+											["Raider's Training Dummy"] = 13654,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1517,
+										["n_min"] = 1517,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 13654,
+										["c_max"] = 3251,
+										["id"] = 2948,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2818,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[205345] = {
+										["c_amt"] = 16,
+										["b_amt"] = 0,
+										["c_dmg"] = 19150,
+										["g_amt"] = 0,
+										["n_max"] = 682,
+										["targets"] = {
+											["Raider's Training Dummy"] = 42934,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 23784,
+										["n_min"] = 537,
+										["g_dmg"] = 0,
+										["counter"] = 56,
+										["total"] = 42934,
+										["c_max"] = 1364,
+										["id"] = 205345,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1116,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 40,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[127802] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 8549,
+										["g_amt"] = 0,
+										["n_max"] = 2036,
+										["targets"] = {
+											["Raider's Training Dummy"] = 16617,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8068,
+										["n_min"] = 1962,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 16617,
+										["c_max"] = 4478,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4071,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[108853] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 150961,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 150961,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 150961,
+										["c_max"] = 13893,
+										["id"] = 108853,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11185,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[12654] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4580,
+										["targets"] = {
+											["Raider's Training Dummy"] = 516451,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 516451,
+										["n_min"] = 138,
+										["g_dmg"] = 0,
+										["counter"] = 256,
+										["total"] = 516451,
+										["c_max"] = 0,
+										["id"] = 12654,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 256,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[11366] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 163602,
+										["g_amt"] = 0,
+										["n_max"] = 13442,
+										["targets"] = {
+											["Raider's Training Dummy"] = 275035,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 111433,
+										["n_min"] = 11377,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 275035,
+										["c_max"] = 25282,
+										["id"] = 11366,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 21437,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271671] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 8355,
+										["g_amt"] = 0,
+										["n_max"] = 4178,
+										["targets"] = {
+											["Training Dummy"] = 20888,
+											["Raider's Training Dummy"] = 4178,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16711,
+										["n_min"] = 4177,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 25066,
+										["c_max"] = 8355,
+										["id"] = 271671,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 8355,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[226757] = {
+										["c_amt"] = 16,
+										["b_amt"] = 0,
+										["c_dmg"] = 4574,
+										["g_amt"] = 0,
+										["n_max"] = 167,
+										["targets"] = {
+											["Raider's Training Dummy"] = 8864,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4290,
+										["n_min"] = 128,
+										["g_dmg"] = 0,
+										["counter"] = 46,
+										["total"] = 8864,
+										["c_max"] = 334,
+										["id"] = 226757,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 226,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 30,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1561559715,
+							["last_dps"] = 15931.86690676695,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1561559626,
+							["delay"] = 0,
+							["damage_taken"] = 0.007245,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.003374,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003374,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.003374,
+							["serial"] = "Creature-0-3894-1-9-153285-000312D110",
+							["damage_taken"] = 20888.003374,
+							["nome"] = "Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559713,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559713,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.001013,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001013,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.001013,
+							["serial"] = "Creature-0-3894-1-9-31146-000012D113",
+							["damage_taken"] = 1378594.001013,
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559713,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559713,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 629,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008448,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Redeyez"] = 16617,
+							},
+							["targets"] = {
+							},
+							["healing_taken"] = 0.008448,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["classe"] = "MAGE",
+							["totalover"] = 16617.008448,
+							["total_without_pet"] = 0.008448,
+							["totalover_without_pet"] = 0.008448,
+							["start_time"] = 1561559707,
+							["heal_enemy_amt"] = 0,
+							["end_time"] = 1561559713,
+							["total"] = 0.008448,
+							["spells"] = {
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Redeyez"] = 16617,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Redeyez"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 6,
+										["overheal"] = 16617,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 6,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["nome"] = "Redeyez",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-08D6A984",
+							["heal_enemy"] = {
+							},
+							["spec"] = 63,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.008448,
+							["delay"] = 1561559690,
+							["last_event"] = 1561559707,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 629,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 629,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[155158] = {
+										["appliedamt"] = 6,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 16,
+										["id"] = 155158,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[226757] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 77,
+										["id"] = 226757,
+										["refreshamt"] = 26,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12654] = {
+										["appliedamt"] = 48,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 87,
+										["id"] = 12654,
+										["refreshamt"] = 66,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[279715] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 83,
+										["id"] = 279715,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[157644] = {
+										["appliedamt"] = 10,
+										["targets"] = {
+										},
+										["activedamt"] = 10,
+										["uptime"] = 63,
+										["id"] = 157644,
+										["refreshamt"] = 8,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 87,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116267] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 87,
+										["id"] = 116267,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48107] = {
+										["appliedamt"] = 17,
+										["targets"] = {
+										},
+										["activedamt"] = 17,
+										["uptime"] = 22,
+										["id"] = 48107,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48108] = {
+										["appliedamt"] = 16,
+										["targets"] = {
+										},
+										["activedamt"] = 16,
+										["uptime"] = 7,
+										["id"] = 48108,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[267685] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 267685,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[288800] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 288800,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[272934] = {
+										["appliedamt"] = 10,
+										["targets"] = {
+										},
+										["activedamt"] = 10,
+										["uptime"] = 63,
+										["id"] = 272934,
+										["refreshamt"] = 8,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 87,
+										["id"] = 1459,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["appliedamt"] = 8,
+										["targets"] = {
+										},
+										["activedamt"] = 8,
+										["uptime"] = 54,
+										["id"] = 279902,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[236060] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 12,
+										["id"] = 236060,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[190319] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 190319,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 180,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 63,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[133] = 28,
+								[190319] = 1,
+								[2948] = 5,
+								[153561] = 1,
+								[11366] = 16,
+								[108853] = 12,
+							},
+							["buff_uptime"] = 600,
+							["last_event"] = 1561559713,
+							["nome"] = "Redeyez",
+							["tipo"] = 4,
+							["serial"] = "Player-3702-08D6A984",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 629,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Redeyez"] = true,
+				},
+				["tempo_start"] = 1561559626,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 710,
+				["playing_solo"] = true,
+				["totals"] = {
+					1399482, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:35:13",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 29623.011,
+				["CombatEndedAt"] = 29623.011,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Redeyez"] = 0.008448,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Redeyez"] = 1384285.007245,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 29623.011,
+				["combat_id"] = 629,
+				["overall_added"] = true,
+				["frags"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1399482, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 29535.638,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "16:33:46",
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 628,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007384,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 39783,
+							},
+							["serial"] = "Player-3702-08D6A984",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 39783.007384,
+							["spec"] = 63,
+							["dps_started"] = false,
+							["total"] = 39783.007384,
+							["on_hold"] = false,
+							["last_event"] = 1561559610,
+							["nome"] = "Redeyez",
+							["spells"] = {
+								["_ActorTable"] = {
+									[205345] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3844,
+										["g_amt"] = 0,
+										["n_max"] = 682,
+										["targets"] = {
+											["Raider's Training Dummy"] = 5828,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1984,
+										["n_min"] = 620,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 5828,
+										["c_max"] = 1364,
+										["id"] = 205345,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1240,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[12654] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2043,
+										["targets"] = {
+											["Raider's Training Dummy"] = 30645,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30645,
+										["n_min"] = 2043,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 30645,
+										["c_max"] = 0,
+										["id"] = 12654,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[226757] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 311,
+										["g_amt"] = 0,
+										["n_max"] = 151,
+										["targets"] = {
+											["Raider's Training Dummy"] = 525,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 214,
+										["n_min"] = 63,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 525,
+										["c_max"] = 311,
+										["id"] = 226757,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 311,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2785,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2785,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2785,
+										["c_max"] = 2785,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2785,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1561559611,
+							["last_dps"] = 7756.484184830119,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007384,
+							["start_time"] = 1561559605,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007062,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007062,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.007062,
+							["serial"] = "Creature-0-3894-1-9-31146-000092D108",
+							["damage_taken"] = 39783.007062,
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559611,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559611,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 628,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 628,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 628,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[226757] = {
+										["activedamt"] = -1,
+										["id"] = 226757,
+										["targets"] = {
+										},
+										["actived_at"] = 1561559608,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12654] = {
+										["activedamt"] = -3,
+										["id"] = 12654,
+										["targets"] = {
+										},
+										["actived_at"] = 1561559610,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[267685] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 267685,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116267] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 116267,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279715] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 279715,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 1459,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 5,
+										["id"] = 279902,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 63,
+							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1561559611,
+							["nome"] = "Redeyez",
+							["buff_uptime"] = 34,
+							["serial"] = "Player-3702-08D6A984",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 628,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Redeyez"] = true,
+				},
+				["CombatStartedAt"] = 29534.642,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 709,
+				["playing_solo"] = true,
+				["totals"] = {
+					39783, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					39783, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:33:32",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 6.039000000000669,
+				["CombatEndedAt"] = 29521.231,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:33:25",
+				["end_time"] = 29521.231,
+				["combat_id"] = 628,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Redeyez"] = 39783.007384,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1561559605,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 29515.192,
+				["TimeData"] = {
+				},
+				["frags"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 627,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003975,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 1033610,
+								["Training Dummy"] = 4177,
+							},
+							["serial"] = "Player-3702-08D6A984",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1037787.003975,
+							["spec"] = 63,
+							["dps_started"] = false,
+							["total"] = 1037787.003975,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1561559605,
+							["nome"] = "Redeyez",
+							["spells"] = {
+								["_ActorTable"] = {
+									[31661] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4814,
+										["targets"] = {
+											["Raider's Training Dummy"] = 4814,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4814,
+										["n_min"] = 4814,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 4814,
+										["c_max"] = 0,
+										["id"] = 31661,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[108853] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 111231,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 111231,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 111231,
+										["c_max"] = 13578,
+										["id"] = 108853,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11462,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[155158] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 8688,
+										["g_amt"] = 0,
+										["n_max"] = 758,
+										["targets"] = {
+											["Raider's Training Dummy"] = 21393,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12705,
+										["n_min"] = 656,
+										["g_dmg"] = 0,
+										["counter"] = 24,
+										["total"] = 21393,
+										["c_max"] = 1515,
+										["id"] = 155158,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1364,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 18,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[127802] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 16544,
+										["g_amt"] = 0,
+										["n_max"] = 2036,
+										["targets"] = {
+											["Raider's Training Dummy"] = 18580,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2036,
+										["n_min"] = 2036,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 18580,
+										["c_max"] = 4478,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3924,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[153564] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7429,
+										["targets"] = {
+											["Raider's Training Dummy"] = 22286,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 22286,
+										["n_min"] = 7428,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 22286,
+										["c_max"] = 0,
+										["id"] = 153564,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[2948] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 5891,
+										["g_amt"] = 0,
+										["n_max"] = 1728,
+										["targets"] = {
+											["Raider's Training Dummy"] = 9288,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3397,
+										["n_min"] = 1669,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 9288,
+										["c_max"] = 3142,
+										["id"] = 2948,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2749,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[205345] = {
+										["c_amt"] = 22,
+										["b_amt"] = 0,
+										["c_dmg"] = 25979,
+										["g_amt"] = 0,
+										["n_max"] = 659,
+										["targets"] = {
+											["Raider's Training Dummy"] = 42571,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16592,
+										["n_min"] = 537,
+										["g_dmg"] = 0,
+										["counter"] = 50,
+										["total"] = 42571,
+										["c_max"] = 1319,
+										["id"] = 205345,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1075,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 28,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[269031] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1393,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2785,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2785,
+										["n_min"] = 1392,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2785,
+										["c_max"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[133] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 93389,
+										["g_amt"] = 0,
+										["n_max"] = 6035,
+										["targets"] = {
+											["Raider's Training Dummy"] = 149899,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 56510,
+										["n_min"] = 4867,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 149899,
+										["c_max"] = 12834,
+										["id"] = 133,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 10460,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[12654] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5459,
+										["targets"] = {
+											["Raider's Training Dummy"] = 404260,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 404260,
+										["n_min"] = 98,
+										["g_dmg"] = 0,
+										["counter"] = 181,
+										["total"] = 404260,
+										["c_max"] = 0,
+										["id"] = 12654,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 181,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[11366] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 167825,
+										["g_amt"] = 0,
+										["n_max"] = 12641,
+										["targets"] = {
+											["Raider's Training Dummy"] = 225999,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 58174,
+										["n_min"] = 10955,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 225999,
+										["c_max"] = 25282,
+										["id"] = 11366,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 21437,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271671] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4595,
+										["targets"] = {
+											["Training Dummy"] = 4177,
+											["Raider's Training Dummy"] = 13368,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17545,
+										["n_min"] = 4177,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 17545,
+										["c_max"] = 0,
+										["id"] = 271671,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[226757] = {
+										["c_amt"] = 15,
+										["b_amt"] = 0,
+										["c_dmg"] = 4101,
+										["g_amt"] = 0,
+										["n_max"] = 161,
+										["targets"] = {
+											["Raider's Training Dummy"] = 7136,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3035,
+										["n_min"] = 131,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 7136,
+										["c_max"] = 333,
+										["id"] = 226757,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 29,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 21,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1561559605,
+							["last_dps"] = 16334.04059491771,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1561559541,
+							["delay"] = 0,
+							["damage_taken"] = 0.003975,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.003464,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003464,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.003464,
+							["serial"] = "Creature-0-3894-1-9-31146-000092D108",
+							["damage_taken"] = 1033610.003464,
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559605,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559605,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.008339,
+							["damage_from"] = {
+								["Redeyez"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008339,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.008339,
+							["serial"] = "Creature-0-3894-1-9-153285-000012D116",
+							["damage_taken"] = 4177.008339,
+							["nome"] = "Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1561559605,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1561559605,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 627,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004594,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Redeyez"] = 18580,
+							},
+							["targets"] = {
+							},
+							["healing_taken"] = 0.004594,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["classe"] = "MAGE",
+							["totalover"] = 18580.004594,
+							["total_without_pet"] = 0.004594,
+							["totalover_without_pet"] = 0.004594,
+							["start_time"] = 1561559604,
+							["heal_enemy_amt"] = 0,
+							["end_time"] = 1561559605,
+							["total"] = 0.004594,
+							["spells"] = {
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Redeyez"] = 18580,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Redeyez"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 5,
+										["overheal"] = 18580,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 5,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["nome"] = "Redeyez",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3702-08D6A984",
+							["heal_enemy"] = {
+							},
+							["spec"] = 63,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.004594,
+							["delay"] = 1561559588,
+							["last_event"] = 1561559604,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 627,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 627,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[12654] = {
+										["appliedamt"] = 32,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 64,
+										["id"] = 12654,
+										["refreshamt"] = 45,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[226757] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 60,
+										["id"] = 226757,
+										["refreshamt"] = 16,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[155158] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 8,
+										["id"] = 155158,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[279715] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 59,
+										["id"] = 279715,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[157644] = {
+										["appliedamt"] = 6,
+										["targets"] = {
+										},
+										["activedamt"] = 6,
+										["uptime"] = 42,
+										["id"] = 157644,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 64,
+										["id"] = 186403,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[267685] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 267685,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116267] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 116267,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48107] = {
+										["appliedamt"] = 14,
+										["targets"] = {
+										},
+										["activedamt"] = 14,
+										["uptime"] = 16,
+										["id"] = 48107,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 64,
+										["id"] = 1459,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48108] = {
+										["appliedamt"] = 12,
+										["targets"] = {
+										},
+										["activedamt"] = 12,
+										["uptime"] = 9,
+										["id"] = 48108,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[285482] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 12,
+										["id"] = 285482,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[288800] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 288800,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[272934] = {
+										["appliedamt"] = 6,
+										["targets"] = {
+										},
+										["activedamt"] = 6,
+										["uptime"] = 42,
+										["id"] = 272934,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[190319] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 190319,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 5,
+										["uptime"] = 40,
+										["id"] = 279902,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[236060] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 11,
+										["id"] = 236060,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[212653] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 1,
+										["id"] = 212653,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 132,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 63,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31661] = 1,
+								[108853] = 9,
+								[212653] = 2,
+								[133] = 17,
+								[153561] = 1,
+								[190319] = 1,
+								[11366] = 12,
+								[2948] = 4,
+								[285482] = 1,
+							},
+							["buff_uptime"] = 395,
+							["last_event"] = 1561559605,
+							["nome"] = "Redeyez",
+							["tipo"] = 4,
+							["serial"] = "Player-3702-08D6A984",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 627,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Redeyez"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 708,
+				["playing_solo"] = true,
+				["totals"] = {
+					1037787, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:33:25",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 29515.192,
+				["CombatEndedAt"] = 29515.192,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:32:21",
+				["end_time"] = 29515.192,
+				["combat_id"] = 627,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+				},
+				["tempo_start"] = 1561559541,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1037787, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 29451.152,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Redeyez"] = 0.004594,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Redeyez"] = 1037787.003975,
+						}, -- [1]
+					},
+				},
+			}, -- [4]
+		},
+	},
+	["last_version"] = "v8.2.0.7135",
+	["character_data"] = {
+		["logons"] = 43,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -556.0691604614258,
+					["x"] = 850.3106689453125,
+					["w"] = 417.99951171875,
+					["h"] = 170.0002136230469,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+	},
+	["last_instance_id"] = 2070,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1550782529,
+	["active_profile"] = "Swobuswagins-Tarren Mill",
+	["last_realversion"] = 140,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				288.999938964844, -- [1]
+				320.999969482422, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 179.848552025299,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "TOPLEFT",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0.00115966796875,
+				["x"] = 3.0517578125e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["font_size"] = 10,
+			["x"] = 11.0000076293945,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = -74.9996948242188,
+			["use_spark"] = true,
+			["author"] = "Details! Team",
+			["main_frame_locked"] = true,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "Atal'Dazar",
+		["started"] = false,
+		["segment_id"] = 5,
+		["ej_id"] = 968,
+		["started_at"] = 1550607365.7,
+		["run_id"] = 2,
+		["level"] = 2,
+		["dungeon_zone_id"] = 1763,
+		["previous_boss_killed_at"] = 1550608942,
+	},
+	["last_encounter"] = "Jadefire Masters",
+	["on_death_menu"] = true,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "02",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["combat_id"] = 630,
+	["savedStyles"] = {
+	},
+	["force_font_outline"] = "",
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.028789,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Raider's Training Dummy"] = 2457228,
+						["Training Dummy"] = 25065,
+					},
+					["pets"] = {
+					},
+					["classe"] = "MAGE",
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2482293.028789,
+					["serial"] = "Player-3702-08D6A984",
+					["dps_started"] = false,
+					["total"] = 2482293.028789,
+					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Redeyez",
+					["spells"] = {
+						["_ActorTable"] = {
+							[31661] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4814,
+								["targets"] = {
+									["Raider's Training Dummy"] = 4814,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4814,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 4814,
+								["c_max"] = 0,
+								["id"] = 31661,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[108853] = {
+								["c_amt"] = 21,
+								["b_amt"] = 0,
+								["c_dmg"] = 262192,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 262192,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 21,
+								["total"] = 262192,
+								["c_max"] = 13893,
+								["id"] = 108853,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[155158] = {
+								["c_amt"] = 39,
+								["b_amt"] = 0,
+								["c_dmg"] = 55328,
+								["g_amt"] = 0,
+								["n_max"] = 758,
+								["targets"] = {
+									["Raider's Training Dummy"] = 78469,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 23141,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 72,
+								["total"] = 78469,
+								["c_max"] = 1516,
+								["id"] = 155158,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 33,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[127802] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 25093,
+								["g_amt"] = 0,
+								["n_max"] = 2036,
+								["targets"] = {
+									["Raider's Training Dummy"] = 35197,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10104,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 35197,
+								["c_max"] = 4478,
+								["id"] = 127802,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[226757] = {
+								["c_amt"] = 32,
+								["b_amt"] = 0,
+								["c_dmg"] = 9012,
+								["g_amt"] = 0,
+								["n_max"] = 167,
+								["targets"] = {
+									["Raider's Training Dummy"] = 16663,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7651,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 86,
+								["total"] = 16663,
+								["c_max"] = 334,
+								["id"] = 226757,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 54,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[271671] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 8355,
+								["g_amt"] = 0,
+								["n_max"] = 4595,
+								["targets"] = {
+									["Training Dummy"] = 25065,
+									["Raider's Training Dummy"] = 17546,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 34256,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 42611,
+								["c_max"] = 8355,
+								["id"] = 271671,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[205345] = {
+								["c_amt"] = 44,
+								["b_amt"] = 0,
+								["c_dmg"] = 52411,
+								["g_amt"] = 0,
+								["n_max"] = 682,
+								["targets"] = {
+									["Raider's Training Dummy"] = 96436,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 44025,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 118,
+								["total"] = 96436,
+								["c_max"] = 1364,
+								["id"] = 205345,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 74,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[269031] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 5569,
+								["g_amt"] = 0,
+								["n_max"] = 1393,
+								["targets"] = {
+									["Raider's Training Dummy"] = 12530,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6961,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 12530,
+								["c_max"] = 2785,
+								["id"] = 269031,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[133] = {
+								["c_amt"] = 18,
+								["b_amt"] = 0,
+								["c_dmg"] = 209386,
+								["g_amt"] = 0,
+								["n_max"] = 6417,
+								["targets"] = {
+									["Raider's Training Dummy"] = 380546,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 171160,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 48,
+								["total"] = 380546,
+								["c_max"] = 12834,
+								["id"] = 133,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 30,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[12654] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 5459,
+								["targets"] = {
+									["Raider's Training Dummy"] = 951356,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 951356,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 452,
+								["total"] = 951356,
+								["c_max"] = 0,
+								["id"] = 12654,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 452,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[11366] = {
+								["c_amt"] = 14,
+								["b_amt"] = 0,
+								["c_dmg"] = 331427,
+								["g_amt"] = 0,
+								["n_max"] = 13442,
+								["targets"] = {
+									["Raider's Training Dummy"] = 501034,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 169607,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["total"] = 501034,
+								["c_max"] = 25282,
+								["id"] = 11366,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 14,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[2948] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 18028,
+								["g_amt"] = 0,
+								["n_max"] = 1728,
+								["targets"] = {
+									["Raider's Training Dummy"] = 22942,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4914,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 22942,
+								["c_max"] = 3251,
+								["id"] = 2948,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[153564] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 27609,
+								["g_amt"] = 0,
+								["n_max"] = 7429,
+								["targets"] = {
+									["Raider's Training Dummy"] = 77503,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 49894,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 77503,
+								["c_max"] = 13812,
+								["id"] = 153564,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["spec"] = 63,
+					["end_time"] = 1561559605,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.028789,
+					["start_time"] = 1561559439,
+					["delay"] = 0,
+					["on_hold"] = false,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.020241,
+					["damage_from"] = {
+						["Redeyez"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.020241,
+					["friendlyfire"] = {
+					},
+					["fight_component"] = true,
+					["end_time"] = 1561559605,
+					["serial"] = "Creature-0-3894-1-9-31146-000092D108",
+					["damage_taken"] = 2457228.020241,
+					["nome"] = "Raider's Training Dummy",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 0.020241,
+					["dps_started"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1561559602,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.013247,
+					["damage_from"] = {
+						["Redeyez"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.013247,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1561559605,
+					["serial"] = "Creature-0-3894-1-9-153285-000012D116",
+					["damage_taken"] = 25065.013247,
+					["nome"] = "Training Dummy",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 0.013247,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1561559602,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [3]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorb"] = 0.014455,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+						["Redeyez"] = 0,
+					},
+					["targets"] = {
+					},
+					["heal_enemy_amt"] = 0,
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.014455,
+					["healing_from"] = {
+					},
+					["classe"] = "MAGE",
+					["totalover"] = 35197.014455,
+					["total_without_pet"] = 0.014455,
+					["iniciar_hps"] = false,
+					["start_time"] = 1561559595,
+					["healing_taken"] = 0.014455,
+					["end_time"] = 1561559605,
+					["total"] = 0.014455,
+					["spells"] = {
+						["_ActorTable"] = {
+							[127802] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Redeyez"] = 35197,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Redeyez"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 11,
+								["overheal"] = 35197,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 127802,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 11,
+								["m_healed"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["nome"] = "Redeyez",
+					["targets_absorbs"] = {
+					},
+					["grupo"] = true,
+					["serial"] = "Player-3702-08D6A984",
+					["heal_enemy"] = {
+					},
+					["spec"] = 63,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["on_hold"] = false,
+					["totaldenied"] = 0.014455,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[12654] = {
+								["actived_at"] = 3123119327,
+								["refreshamt"] = 111,
+								["activedamt"] = 0,
+								["appliedamt"] = 80,
+								["id"] = 12654,
+								["uptime"] = 151,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[226757] = {
+								["actived_at"] = 3123119325,
+								["refreshamt"] = 42,
+								["activedamt"] = 0,
+								["appliedamt"] = 4,
+								["id"] = 226757,
+								["uptime"] = 137,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[155158] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 155158,
+								["uptime"] = 24,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+					},
+					["classe"] = "MAGE",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[279715] = {
+								["refreshamt"] = 4,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 279715,
+								["uptime"] = 152,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[157644] = {
+								["refreshamt"] = 12,
+								["activedamt"] = 17,
+								["appliedamt"] = 17,
+								["id"] = 157644,
+								["uptime"] = 111,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 186403,
+								["uptime"] = 163,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[267685] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 267685,
+								["uptime"] = 41,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[116267] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 116267,
+								["uptime"] = 99,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[48107] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 31,
+								["appliedamt"] = 31,
+								["id"] = 48107,
+								["uptime"] = 38,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[285482] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 285482,
+								["uptime"] = 12,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[48108] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 28,
+								["appliedamt"] = 28,
+								["id"] = 48108,
+								["uptime"] = 16,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[279902] = {
+								["refreshamt"] = 12,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
+								["id"] = 279902,
+								["uptime"] = 104,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[288800] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 288800,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[272934] = {
+								["refreshamt"] = 12,
+								["activedamt"] = 17,
+								["appliedamt"] = 17,
+								["id"] = 272934,
+								["uptime"] = 111,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[190319] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 190319,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1459] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 1459,
+								["uptime"] = 163,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[236060] = {
+								["refreshamt"] = 4,
+								["activedamt"] = 5,
+								["appliedamt"] = 5,
+								["id"] = 236060,
+								["uptime"] = 23,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[212653] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 212653,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime"] = 312,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 63,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[31661] = 1,
+						[108853] = 21,
+						[212653] = 2,
+						[133] = 45,
+						[153561] = 2,
+						[190319] = 2,
+						[11366] = 28,
+						[2948] = 9,
+						[285482] = 1,
+					},
+					["buff_uptime"] = 1074,
+					["tipo"] = 4,
+					["nome"] = "Redeyez",
+					["last_event"] = 0,
+					["serial"] = "Player-3702-08D6A984",
+					["debuff_uptime_targets"] = {
+					},
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1561559541,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["combat_counter"] = 707,
+		["totals"] = {
+			2482293.049975, -- [1]
+			0.013042, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "16:32:21",
+		["end_time"] = 29631.136,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			2482293.023423, -- [1]
+			0.013042, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 6.525000000001455,
+				["type"] = 0,
+				["name"] = "Raider's Training Dummy",
+				["clock"] = "16:35:15",
+			}, -- [1]
+			{
+				["elapsed"] = 87.37300000000323,
+				["type"] = 0,
+				["name"] = "Raider's Training Dummy",
+				["clock"] = "16:33:46",
+			}, -- [2]
+			{
+				["elapsed"] = 6.039000000000669,
+				["type"] = 0,
+				["name"] = "Raider's Training Dummy",
+				["clock"] = "16:33:25",
+			}, -- [3]
+			{
+				["elapsed"] = 64.03999999999724,
+				["type"] = 0,
+				["name"] = "Raider's Training Dummy",
+				["clock"] = "16:32:21",
+			}, -- [4]
+		},
+		["data_fim"] = "16:35:21",
+		["overall_enemy_name"] = "Raider's Training Dummy",
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 29467.159,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["combat_counter"] = 713,
+	["nick_tag_cache"] = {
+		["last_version"] = 11,
+		["nextreset"] = 1562855322,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3702-08D6A984"] = 63,
+	},
+}

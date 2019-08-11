@@ -1,0 +1,48 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0243,
+	["LastPlayerFullName"] = "Peteafk-Argent Dawn",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128910] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 21,
+					["Type"] = "Iron",
+				}, -- [1]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 18,
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "Strom'kar, the Warbreaker",
+		},
+		[128289] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 12,
+					["Type"] = "Iron",
+				}, -- [1]
+				{
+					["ItemLevel"] = 15,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 13,
+					["Type"] = "Fire",
+				}, -- [3]
+			},
+			["Name"] = "Scale of the Earth-Warder",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARRIOR",
+	["LastAdded"] = 1,
+}

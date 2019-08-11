@@ -1,0 +1,10 @@
+lightweight tag 59f6be745428ada1f43293168f35a7148454fd61 v8.2.0.7176.140
+Author:	Tercioo <terciob19@hotmail.com>
+Date:	Sun Aug 11 10:29:04 2019 -0300
+
+commit 59f6be745428ada1f43293168f35a7148454fd61
+Author: Tercioo <terciob19@hotmail.com>
+Date:   Sun Aug 11 10:29:04 2019 -0300
+
+    Spell Cache fix for wow classic
+

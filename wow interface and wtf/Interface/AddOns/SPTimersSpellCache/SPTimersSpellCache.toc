@@ -1,0 +1,9 @@
+## Interface: 80200
+## Author: Alea
+## Version: 1.00
+## Title: SPTimers-SpellCache
+## Notes: Cache spells
+## RequiredDeps: SPTimers
+## DefaultState: Enabled
+## LoadOnDemand: 1
+## SavedVariables: SPTimersChackedSpells

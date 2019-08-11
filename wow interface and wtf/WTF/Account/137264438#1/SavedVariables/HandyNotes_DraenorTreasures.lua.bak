@@ -1,0 +1,11 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Issie - Argent Dawn"] = "Default",
+		["Brogene - Argent Dawn"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

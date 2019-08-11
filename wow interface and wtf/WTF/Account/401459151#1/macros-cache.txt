@@ -1,0 +1,14 @@
+VER 3 0000000000000002 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Provoke
+/target Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 0000000000000003 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Firestick
+END
+VER 3 0000000000000001 "healer" "1729933"
+#showtooltip
+/cast [target=mouseover]
+END

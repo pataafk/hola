@@ -1,0 +1,21 @@
+
+Postal3DB = {
+	["profileKeys"] = {
+		["Issie - Argent Dawn"] = "Issie - Argent Dawn",
+		["Brogene - Argent Dawn"] = "Brogene - Argent Dawn",
+	},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Brogene|Argent Dawn|Alliance|20|DRUID", -- [1]
+				"Issie|Argent Dawn|Alliance|20|SHAMAN", -- [2]
+			},
+		},
+	},
+	["profiles"] = {
+		["Issie - Argent Dawn"] = {
+		},
+		["Brogene - Argent Dawn"] = {
+		},
+	},
+}

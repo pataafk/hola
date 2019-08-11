@@ -1,0 +1,31 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/reload", -- [1]
+		"/tmw", -- [2]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Could someone please boost me and my friend In Sunwell? :)", -- [1]
+			"Impression-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Impression", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			955, -- [11]
+			"Player-3702-083D6377", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaImpression|r",
+			[51] = 1538492903,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+	},
+}

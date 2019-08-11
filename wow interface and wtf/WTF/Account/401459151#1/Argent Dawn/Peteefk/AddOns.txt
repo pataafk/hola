@@ -1,0 +1,15 @@
+Azeroth Auto Pilot: disabled
+AzeriteTooltip: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+ElvUI_EverySecondCounts: disabled
+LittleWigs: enabled
+BigWigs_Azeroth: enabled
+BigWigs_Uldir: enabled
+AAP-Core: disabled
+BigWigs_BattleOfDazaralor: enabled
+WeakAurasCompanion: enabled
+BigWigs_CrucibleOfStorms: enabled
+BigWigs_EternalPalace: enabled
+SPTimers: disabled

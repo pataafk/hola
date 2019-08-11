@@ -1,0 +1,21 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+    <Script file="core.lua"/>
+	<Script file="media.lua"/>
+	<Script file="bars.lua"/>
+	<Script file="colldownline.lua"/>
+	<Script file="buffs.lua"/>
+	<!--<Script file="drag.lua"/>-->
+	<Script file="profilestaff.lua"/>
+	<Script file="castbar.lua"/>
+	
+	<!-- <Script file="cooldowns.lua"/> -->
+	
+	<!--<Script file="cop.lua"/>-->
+	<!--<Script file="statweight.lua"/>-->
+	<Script file="version.lua"/>
+	<Script file="changelog.lua"/>
+	<Script file="options.lua"/>
+</Ui>

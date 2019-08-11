@@ -1,0 +1,37 @@
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Purify
+END
+VER 3 0100000000000006 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Shadow Mend
+END
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Pain Suppression
+END
+VER 3 0100000000000001 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Plea
+END
+VER 3 0100000000000002 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]Power Word: Shield
+END
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]Clarity of Will
+END
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Power Word: Radiance
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Crash
+/cast [@cursor] Shadow Crash
+END
+VER 3 0100000000000009 "." "INV_MISC_QUESTIONMARK"
+#showtooltipp [talent:6/2]Divine Star ; [talent:6/3] Halo 
+/cast Divine Star
+/cast Halo
+END

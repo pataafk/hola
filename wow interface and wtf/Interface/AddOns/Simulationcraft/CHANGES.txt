@@ -1,0 +1,10 @@
+lightweight tag b09e4f2a0adec43d58ebf6573811e86fc79c6ebc v1.12.2
+Author:	Dave Hendler <sollaires@gmail.com>
+Date:	Tue Jul 16 18:21:53 2019 -0700
+
+commit b09e4f2a0adec43d58ebf6573811e86fc79c6ebc
+Author: Dave Hendler <sollaires@gmail.com>
+Date:   Tue Jul 16 18:21:53 2019 -0700
+
+    Update version to release
+

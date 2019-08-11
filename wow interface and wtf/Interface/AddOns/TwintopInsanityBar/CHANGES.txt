@@ -1,0 +1,10 @@
+lightweight tag da89b9affe8a5443ac50aae6e168b9b18d8370fa 8.2.0.0-release
+Author:	David C. Uhrig <david@twintop-tahoe.com>
+Date:	Tue Jun 25 11:01:27 2019 +1000
+
+commit da89b9affe8a5443ac50aae6e168b9b18d8370fa
+Author: David C. Uhrig <david@twintop-tahoe.com>
+Date:   Tue Jun 25 11:01:27 2019 +1000
+
+    Update release date
+

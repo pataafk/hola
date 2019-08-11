@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "artifact skin" "1392565"
+#showtooltip
+/cast Apocalypse
+/script print(IsQuestFlaggedCompleted(44188))d
+END
+VER 3 0100000000000002 "ice grip" "237532"
+#showtooltip
+/cast Death Grip
+/castsequence [target=focus] reset=60
+/cast Death Grip
+/cast Chains of Ice
+/cast Howling Blast
+END
+VER 3 0100000000000003 "pillar of frost" "ability_deathknight_pillaroffrost."
+/cast Obliteration
+/cast Pillar of frost
+/cast Remorseless Winter
+END

@@ -1,0 +1,20 @@
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Healing Wave
+END
+VER 3 0100000000000001 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Riptide
+END
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Purify Spirit
+END
+VER 3 0100000000000002 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Healing Surge
+END
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Chain Heal
+END

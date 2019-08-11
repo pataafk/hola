@@ -1,0 +1,23 @@
+VER 3 0100000000000004 "." "458726"
+#showtooltip
+/cast Vendetta
+/use 13
+/use 14
+END
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2]Toxic Blade;[talent:6/3]Exsanguinate
+END
+VER 3 0100000000000002 "das" "INV_MISC_QUESTIONMARK"
+/castsequence reset=15 cheap shot, shadow reflection, adrenaline rush, revealing strike, ambush, slice and dice, marked for death, kidney shot, vanish, eviscerate, ambush, sinister strike, Eviscerate
+END
+VER 3 0100000000000001 "ello" "INV_MISC_QUESTIONMARK"
+#showtooltip Sap
+/cleartarget
+/targetenemyplayer
+/cast Sap
+END
+VER 3 0100000000000003 "shadow" "ABILITY_ROGUE_SHADOWDANCE"
+/cast shadow dance
+/use warmongering gladiator's badge of adaptation
+END

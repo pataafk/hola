@@ -1,0 +1,60 @@
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Renewing Mist
+END
+VER 3 0100000000000006 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Enveloping Mist
+END
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Detox
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Vivify
+END
+VER 3 0100000000000009 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]Effuse
+END
+VER 3 010000000000000A "." "627485"
+#showtooltip
+/cast [target=mouseover] Life Cocoon
+END
+VER 3 010000000000000B "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [talent:6/1] Summon Jade Serpent Statue;[talent:6/2] Refreshing Jade Wind; [talent:6/3] Invoke Chi-Ji, the Red Crane
+END
+VER 3 010000000000000C "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [talent:1/3]Chi Burst; [talent:1/2]  Chi Wave
+END
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] sheilun's gift
+END
+VER 3 010000000000000E "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] tiger's lust
+END
+VER 3 010000000000000F "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover ]Soothing Mist
+END
+VER 3 0100000000000010 "." "606550"
+#showtooltip
+/cast [target=mouseover] Soothing Mist
+END
+VER 3 0100000000000011 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [talent:3/2]Fist of the White Tiger; [talent:3/3] Energizing Elixir
+END
+VER 3 0100000000000012 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [talent:6/2]Rushing Jade Wind; [talent:6/3] Invoke Xuen, the White Tiger
+END
+VER 3 0100000000000013 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [talent:5/2]Diffuse Magic; [talent:5/3] Dampen Harm
+END

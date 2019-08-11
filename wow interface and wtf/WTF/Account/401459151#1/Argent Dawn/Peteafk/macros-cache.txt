@@ -1,0 +1,74 @@
+VER 3 010000000000000E "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Recklessness
+/use potion of prolonged power
+END
+VER 3 0100000000000009 "blade bath of av" "ABILITY_WARRIOR_BLADESTORM"
+/cast Bladestorm
+/cast Bloodbath
+/cast Avatar
+END
+VER 3 0100000000000005 "bloodbath" "ABILITY_WARRIOR_BLOODBATH"
+#showtooltip
+/cast Bloodbath
+/cast Rend
+/cast Hamstring
+END
+VER 3 0100000000000003 "CHARGE!!!!" "ABILITY_WARRIOR_CHARGE"
+#showtooltip Charge
+/cast Charge
+/cast Rend
+/cast Hamstring
+/cancelaura Bladestorm
+/cast Bloodthirst
+END
+VER 3 010000000000000D "hamthirst" "SPELL_NATURE_BLOODLUST"
+#showtooltip
+/cast Bloodthirst
+/cast Hamstring
+END
+VER 3 0100000000000001 "health" "ABILITY_TOUGHNESS"
+#Showtooltip Rallying Cry
+/cast Rallying Cry
+/use warmongering gladiator's emblem of tenacity
+END
+VER 3 010000000000000C "mortal attack" "ABILITY_WARRIOR_SAVAGEBLOW"
+#showtooltip
+/cast Mortal Strike
+/cast Auto Attack
+END
+VER 3 010000000000000B "pummel" "INV_GAUNTLETS_04"
+#showtooltip Pummel
+/cancelaura Bladestorm
+/cast [target=focus]Pummel
+END
+VER 3 0100000000000004 "reckless" "WARRIOR_SKULLBANNER"
+#showtooltip Recklessness
+/cast Avatar
+/cast Recklessness
+/cast Bloodbath
+/cast Sweeping Strikes
+/cast Execute
+END
+VER 3 0100000000000008 "shattering" "ABILITY_WARRIOR_SHATTERINGTHROW"
+#showtooltip Shattering Throw
+/cancelaura bladestorm
+/cast Shattering Throw
+END
+VER 3 0100000000000006 "slow" "SPELL_NATURE_THUNDERCLAP"
+#showtooltip
+/cast Thunder Clap
+/cast Hamstring
+END
+VER 3 010000000000000A "stunne" "ABILITY_WARRIOR_CHARGE"
+#showtooltip Intimidating Shout
+/cast [target=focus] Charge
+/cast [target=focus]Intimidating Shout
+END
+VER 3 0100000000000007 "victory" "ABILITY_WARRIOR_DEVASTATE"
+#showtooltip Victory Rush
+/cancelaura Bladestorm
+/cancelaura Hand of Protection
+/cast Charge
+/cast Victory Rush
+END

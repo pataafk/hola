@@ -1,0 +1,28 @@
+tag e11e08047d4f2afecd244435cc06b77da3aeebe6 4.24
+Author:	Azilroka <darktemplar9900@yahoo.com>
+Date:	Fri Aug 9 22:42:33 2019 -0500
+
+commit f8b310407fc252527d0fb22b0685a5466ce7aa4a
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Aug 9 22:42:16 2019 -0500
+
+    4.24
+
+commit 786b2079ec1bc816430a9682a7b21a0082a28940
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Aug 9 22:41:55 2019 -0500
+
+    ElvUI TexCoords to ElvUI file.
+
+commit 62555defe39f9a4b87d7b0fe64bdc6f3d7760e05
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Aug 9 22:41:32 2019 -0500
+
+    ProperVersion for Changelog commit
+
+commit c6769d94d1ab5bb95e7970023191887f6390db2a
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Aug 9 22:40:54 2019 -0500
+
+    Correct Changelog Error when no changelog was written. Who reads it anyway?
+

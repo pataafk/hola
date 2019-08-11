@@ -1,0 +1,1960 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008125,
+							["damage_from"] = {
+								["Luminous Orchid"] = true,
+							},
+							["targets"] = {
+								["Luminous Orchid"] = 9958,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1538493004,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9958.008125,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 114,
+									["BLOCKED_HITS"] = 4,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 24,
+									["PARTIAL_ABSORBED"] = 7,
+									["PARRY"] = 1,
+									["PARTIAL_ABSORB_AMT"] = 66,
+									["ABSORB"] = 7,
+									["ABSORB_AMT"] = 66,
+									["FULL_HIT"] = 17,
+									["HITS"] = 17,
+									["FULL_HIT_AMT"] = 2354,
+								},
+								["Luminous Orchid"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 114,
+									["BLOCKED_HITS"] = 4,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 24,
+									["PARTIAL_ABSORBED"] = 7,
+									["PARRY"] = 1,
+									["PARTIAL_ABSORB_AMT"] = 66,
+									["ABSORB"] = 7,
+									["ABSORB_AMT"] = 66,
+									["FULL_HIT"] = 17,
+									["HITS"] = 17,
+									["FULL_HIT_AMT"] = 2354,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 9958.008125,
+							["classe"] = "PALADIN",
+							["friendlyfire"] = {
+							},
+							["nome"] = "Therres",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 197,
+										["targets"] = {
+											["Luminous Orchid"] = 575,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 575,
+										["n_min"] = 186,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 575,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[81297] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 784,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Luminous Orchid"] = 1962,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1178,
+										["n_min"] = 27,
+										["g_dmg"] = 0,
+										["counter"] = 57,
+										["total"] = 1962,
+										["c_max"] = 56,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 43,
+										["r_amt"] = 0,
+										["c_min"] = 56,
+									},
+									[31935] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1416,
+										["g_amt"] = 0,
+										["n_max"] = 354,
+										["targets"] = {
+											["Luminous Orchid"] = 3540,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2124,
+										["n_min"] = 354,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 3540,
+										["c_max"] = 708,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 708,
+									},
+									[204301] = {
+										["c_amt"] = 6,
+										["b_amt"] = 1,
+										["c_dmg"] = 809,
+										["g_amt"] = 0,
+										["n_max"] = 68,
+										["targets"] = {
+											["Luminous Orchid"] = 1733,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 924,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 1733,
+										["c_max"] = 135,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 46,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 134,
+									},
+									[275779] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2148,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Luminous Orchid"] = 2148,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2148,
+										["c_max"] = 1074,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1074,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-3702-063B3FF8",
+							["last_dps"] = 592.562221063353,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 2936.008125,
+							["start_time"] = 1538492988,
+							["delay"] = 0,
+							["last_event"] = 1538493003,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PALADIN",
+							["totalover"] = 0.005714,
+							["total_without_pet"] = 198.005714,
+							["total"] = 198.005714,
+							["targets_absorbs"] = {
+								["Therres"] = 66,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-3702-063B3FF8",
+							["totalabsorb"] = 66.005714,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Therres"] = 198,
+							},
+							["totalover_without_pet"] = 0.005714,
+							["healing_taken"] = 198.005714,
+							["fight_component"] = true,
+							["end_time"] = 1538493004,
+							["healing_from"] = {
+								["Therres"] = true,
+							},
+							["nome"] = "Therres",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 33,
+										["targets"] = {
+											["Therres"] = 132,
+										},
+										["n_min"] = 33,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 132,
+										["c_max"] = 66,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 66,
+										["m_crit"] = 0,
+										["c_min"] = 66,
+										["m_amt"] = 0,
+										["n_curado"] = 66,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 66,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 12,
+										["targets"] = {
+											["Therres"] = 66,
+										},
+										["n_min"] = 6,
+										["counter"] = 7,
+										["overheal"] = 0,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+											["Therres"] = 66,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 66,
+										["n_amt"] = 7,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1538492989,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 66,
+							["totaldenied"] = 0.005714,
+							["delay"] = 0,
+							["last_event"] = 1538493003,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[204301] = {
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 7,
+										["refreshamt"] = 12,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196941] = {
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 11,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31935] = {
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[188370] = {
+										["activedamt"] = 3,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197561] = {
+										["activedamt"] = 1,
+										["id"] = 197561,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 30,
+							["debuff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[26573] = 3,
+								[31935] = 3,
+								[275779] = 1,
+								[204019] = 4,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 28,
+							["last_event"] = 1538493004,
+							["nome"] = "Therres",
+							["isTank"] = true,
+							["serial"] = "Player-3702-063B3FF8",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Therres"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Luminous Orchid",
+				["combat_counter"] = 11,
+				["playing_solo"] = true,
+				["totals"] = {
+					9957.998814, -- [1]
+					198, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Therres"] = 198.005714,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Therres"] = 9958.008125,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 1042392.94,
+				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Luminous Orchid"] = 5,
+				},
+				["data_fim"] = "17:10:05",
+				["data_inicio"] = "17:09:48",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					9958, -- [1]
+					198, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 1042376.135,
+				["contra"] = "Luminous Orchid",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008852,
+							["damage_from"] = {
+								["Moonbark Ancient"] = true,
+							},
+							["targets"] = {
+								["Moonbark Ancient"] = 11479,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1538492980,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 11479.008852,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 6,
+									["PARTIAL_ABSORBED"] = 5,
+									["PARRY"] = 1,
+									["PARTIAL_ABSORB_AMT"] = 111,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 111,
+									["FULL_HIT"] = 1,
+									["HITS"] = 5,
+									["FULL_HIT_AMT"] = 579,
+								},
+								["Moonbark Ancient"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 6,
+									["PARTIAL_ABSORBED"] = 5,
+									["PARRY"] = 1,
+									["PARTIAL_ABSORB_AMT"] = 111,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 111,
+									["FULL_HIT"] = 1,
+									["HITS"] = 5,
+									["FULL_HIT_AMT"] = 579,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 11479.008852,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Therres",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 776,
+										["g_amt"] = 0,
+										["n_max"] = 200,
+										["targets"] = {
+											["Moonbark Ancient"] = 1948,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1172,
+										["n_min"] = 192,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 1948,
+										["c_max"] = 396,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 380,
+									}, -- [1]
+									[31935] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1416,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Moonbark Ancient"] = 1416,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1416,
+										["c_max"] = 708,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 708,
+									},
+									[275779] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 4295,
+										["g_amt"] = 0,
+										["n_max"] = 536,
+										["targets"] = {
+											["Moonbark Ancient"] = 4831,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 536,
+										["n_min"] = 536,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 4831,
+										["c_max"] = 1074,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1073,
+									},
+									[204301] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 1078,
+										["g_amt"] = 0,
+										["n_max"] = 68,
+										["targets"] = {
+											["Moonbark Ancient"] = 1753,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 675,
+										["n_min"] = 67,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 1753,
+										["c_max"] = 135,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 134,
+									},
+									[81297] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 168,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Moonbark Ancient"] = 553,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 385,
+										["n_min"] = 27,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 553,
+										["c_max"] = 56,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 56,
+									},
+									[53600] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 534,
+										["g_amt"] = 0,
+										["n_max"] = 222,
+										["targets"] = {
+											["Moonbark Ancient"] = 978,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 444,
+										["n_min"] = 222,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 978,
+										["c_max"] = 534,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 534,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-3702-063B3FF8",
+							["last_dps"] = 559.106173686514,
+							["custom"] = 0,
+							["last_event"] = 1538492980,
+							["damage_taken"] = 1522.008852,
+							["start_time"] = 1538492960,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PALADIN",
+							["totalover"] = 0.005962,
+							["total_without_pet"] = 667.005962,
+							["total"] = 667.005962,
+							["targets_absorbs"] = {
+								["Therres"] = 111,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-3702-063B3FF8",
+							["totalabsorb"] = 111.005962,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Therres"] = 667,
+							},
+							["totalover_without_pet"] = 0.005962,
+							["healing_taken"] = 667.005962,
+							["fight_component"] = true,
+							["end_time"] = 1538492980,
+							["healing_from"] = {
+								["Therres"] = true,
+							},
+							["nome"] = "Therres",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 111,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 26,
+										["targets"] = {
+											["Therres"] = 111,
+										},
+										["n_min"] = 19,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 111,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+											["Therres"] = 111,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 111,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[183811] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 33,
+										["targets"] = {
+											["Therres"] = 556,
+										},
+										["n_min"] = 32,
+										["counter"] = 15,
+										["overheal"] = 0,
+										["total"] = 556,
+										["c_max"] = 65,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 130,
+										["m_crit"] = 0,
+										["c_min"] = 65,
+										["m_amt"] = 0,
+										["n_curado"] = 426,
+										["n_amt"] = 13,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1538492963,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 66,
+							["totaldenied"] = 0.005962,
+							["delay"] = 0,
+							["last_event"] = 1538492980,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[204301] = {
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["targets"] = {
+										},
+										["uptime"] = 16,
+										["appliedamt"] = 6,
+										["refreshamt"] = 12,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196941] = {
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31935] = {
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 31,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["activedamt"] = 3,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 2,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197561] = {
+										["activedamt"] = 2,
+										["id"] = 197561,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 55,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[53600] = 4,
+								[275779] = 5,
+								[31935] = 1,
+								[26573] = 2,
+								[204019] = 7,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1538492980,
+							["nome"] = "Therres",
+							["pets"] = {
+							},
+							["serial"] = "Player-3702-063B3FF8",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Therres"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Moonbark Ancient",
+				["combat_counter"] = 10,
+				["playing_solo"] = true,
+				["totals"] = {
+					11478.993405, -- [1]
+					667, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Therres"] = 667.005962,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Therres"] = 11479.008852,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 1042368.844,
+				["combat_id"] = 1,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Moonbark Ancient"] = 1,
+				},
+				["data_fim"] = "17:09:41",
+				["data_inicio"] = "17:09:20",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					11479, -- [1]
+					667, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 1042348.313,
+				["contra"] = "Moonbark Ancient",
+				["TimeData"] = {
+				},
+			}, -- [2]
+		},
+	},
+	["last_version"] = "v8.0.1.6449",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -433.999938964844,
+					["x"] = 751.000122070313,
+					["w"] = 417.999450683594,
+					["h"] = 170.000213623047,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+		["Player-3702-063B3FF8"] = {
+			22604, -- [1]
+			22430, -- [2]
+			22179, -- [3]
+			22705, -- [4]
+			22434, -- [5]
+			22189, -- [6]
+		},
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Swobuswagins-Tarren Mill",
+	["last_realversion"] = 134,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["animate"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				288.999938964844, -- [1]
+				320.999969482422, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["use_spark"] = true,
+			["main_frame_locked"] = true,
+			["arrow_anchor_y"] = 0,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = -74.9996948242188,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 0.00115966796875,
+				["x"] = 3.05175781250e-005,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["x"] = 11.0000076293945,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
+			["author"] = "Details! Team",
+			["point"] = "TOPLEFT",
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["last_day"] = "02",
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1539788515,
+		["last_version"] = 10,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["combat_id"] = 2,
+	["savedStyles"] = {
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.020953,
+					["damage_from"] = {
+						["Moonbark Ancient"] = true,
+						["Luminous Orchid"] = true,
+					},
+					["targets"] = {
+						["Moonbark Ancient"] = 11479,
+						["Luminous Orchid"] = 9958,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["last_event"] = 0,
+					["classe"] = "PALADIN",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 21437.020953,
+					["end_time"] = 1538492981,
+					["isTank"] = true,
+					["dps_started"] = false,
+					["total"] = 21437.020953,
+					["friendlyfire_total"] = 0,
+					["avoidance"] = {
+						["overall"] = {
+							["DODGE"] = 0,
+							["FULL_ABSORB_AMT"] = 0,
+							["BLOCKED_AMT"] = 0,
+							["BLOCKED_HITS"] = 0,
+							["FULL_ABSORBED"] = 0,
+							["ALL"] = 0,
+							["PARTIAL_ABSORBED"] = 0,
+							["PARRY"] = 0,
+							["PARTIAL_ABSORB_AMT"] = 0,
+							["ABSORB"] = 0,
+							["ABSORB_AMT"] = 0,
+							["FULL_HIT"] = 0,
+							["HITS"] = 0,
+							["FULL_HIT_AMT"] = 0,
+						},
+					},
+					["nome"] = "Therres",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 776,
+								["g_amt"] = 0,
+								["n_max"] = 200,
+								["targets"] = {
+									["Moonbark Ancient"] = 1948,
+									["Luminous Orchid"] = 575,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1747,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 2523,
+								["c_max"] = 396,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[31935] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 2832,
+								["g_amt"] = 0,
+								["n_max"] = 354,
+								["targets"] = {
+									["Moonbark Ancient"] = 1416,
+									["Luminous Orchid"] = 3540,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2124,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 4956,
+								["c_max"] = 708,
+								["id"] = 31935,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[275779] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 6443,
+								["g_amt"] = 0,
+								["n_max"] = 536,
+								["targets"] = {
+									["Moonbark Ancient"] = 4831,
+									["Luminous Orchid"] = 2148,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 536,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 6979,
+								["c_max"] = 1074,
+								["id"] = 275779,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[204301] = {
+								["c_amt"] = 14,
+								["b_amt"] = 1,
+								["c_dmg"] = 1887,
+								["g_amt"] = 0,
+								["n_max"] = 68,
+								["targets"] = {
+									["Moonbark Ancient"] = 1753,
+									["Luminous Orchid"] = 1733,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1599,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 38,
+								["total"] = 3486,
+								["c_max"] = 135,
+								["id"] = 204301,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 46,
+								["n_amt"] = 24,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[81297] = {
+								["c_amt"] = 17,
+								["b_amt"] = 0,
+								["c_dmg"] = 952,
+								["g_amt"] = 0,
+								["n_max"] = 28,
+								["targets"] = {
+									["Moonbark Ancient"] = 553,
+									["Luminous Orchid"] = 1962,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1563,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 74,
+								["total"] = 2515,
+								["c_max"] = 56,
+								["id"] = 81297,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 57,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[53600] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 534,
+								["g_amt"] = 0,
+								["n_max"] = 222,
+								["targets"] = {
+									["Moonbark Ancient"] = 978,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 444,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 978,
+								["c_max"] = 534,
+								["id"] = 53600,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["friendlyfire"] = {
+					},
+					["spec"] = 66,
+					["serial"] = "Player-3702-063B3FF8",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 4458.020953,
+					["start_time"] = 1538492942,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["Therres"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "PALADIN",
+					["totalover"] = 0.012864,
+					["total_without_pet"] = 865.012864,
+					["total"] = 865.012864,
+					["targets_absorbs"] = {
+						["Therres"] = 177,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["isTank"] = true,
+					["serial"] = "Player-3702-063B3FF8",
+					["totalabsorb"] = 177.012864,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Therres"] = 865,
+					},
+					["totalover_without_pet"] = 0.012864,
+					["healing_taken"] = 865.012864,
+					["fight_component"] = true,
+					["end_time"] = 1538492981,
+					["start_time"] = 1538492946,
+					["nome"] = "Therres",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[229976] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 177,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 26,
+								["targets"] = {
+									["Therres"] = 177,
+								},
+								["n_min"] = 0,
+								["counter"] = 12,
+								["overheal"] = 0,
+								["total"] = 177,
+								["c_max"] = 0,
+								["id"] = 229976,
+								["targets_absorbs"] = {
+									["Therres"] = 177,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 177,
+								["n_amt"] = 12,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[183811] = {
+								["c_amt"] = 3,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 33,
+								["targets"] = {
+									["Therres"] = 688,
+								},
+								["n_min"] = 0,
+								["counter"] = 18,
+								["overheal"] = 0,
+								["total"] = 688,
+								["c_max"] = 66,
+								["id"] = 183811,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 196,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 492,
+								["n_amt"] = 15,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["targets_overheal"] = {
+					},
+					["heal_enemy_amt"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["spec"] = 66,
+					["totaldenied"] = 0.012864,
+					["delay"] = 0,
+					["tipo"] = 2,
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[204301] = {
+								["refreshamt"] = 24,
+								["activedamt"] = 0,
+								["appliedamt"] = 13,
+								["id"] = 204301,
+								["uptime"] = 27,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[196941] = {
+								["refreshamt"] = 4,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
+								["id"] = 196941,
+								["uptime"] = 22,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204242] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 13,
+								["id"] = 204242,
+								["uptime"] = 27,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31935] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 4,
+								["id"] = 31935,
+								["uptime"] = 9,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["buff_uptime"] = 59,
+					["classe"] = "PALADIN",
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[132403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 132403,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[188370] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 5,
+								["appliedamt"] = 5,
+								["id"] = 188370,
+								["uptime"] = 30,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[197561] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 197561,
+								["uptime"] = 15,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 85,
+					["nome"] = "Therres",
+					["spec"] = 66,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[53600] = 4,
+						[275779] = 6,
+						[204019] = 11,
+						[31935] = 4,
+						[26573] = 5,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["buff_uptime_targets"] = {
+					},
+					["serial"] = "Player-3702-063B3FF8",
+					["pets"] = {
+					},
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 9,
+		["totals"] = {
+			25895.024758, -- [1]
+			865.011676, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["end_time"] = 1042392.94,
+		["data_inicio"] = "17:09:20",
+		["frags"] = {
+		},
+		["data_fim"] = "17:10:05",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 16.8050000000512,
+				["type"] = 0,
+				["name"] = "Luminous Orchid",
+				["clock"] = "17:09:48",
+			}, -- [1]
+			{
+				["elapsed"] = 20.5310000000754,
+				["type"] = 0,
+				["name"] = "Moonbark Ancient",
+				["clock"] = "17:09:20",
+			}, -- [2]
+		},
+		["start_time"] = 1042355.604,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["totals_grupo"] = {
+			21437.016977, -- [1]
+			865.011676, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_counter"] = 11,
+	["character_data"] = {
+		["logons"] = 4,
+	},
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3702-063B3FF8"] = 66,
+	},
+}

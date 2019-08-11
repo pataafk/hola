@@ -1,0 +1,21 @@
+﻿## Interface: 80200
+## Title: SPTimers
+## Version: 3.14.1
+## VersionType: main
+## X-Version-Status: release
+## Author: Alea
+## Notes: 
+## SavedVariables: SPTimersDB, SPTimersDB2, SPTimersICD_Cache, PSW_SVDB
+## OptionalDeps: LibSharedMedia-3.0
+
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\LibAleaUI-1.0\load.xml
+Libs\AceSerializer-3.0\AceSerializer-3.0.xml
+Libs\SPTimersSpellLoader2\load.xml
+
+Locale\locale.xml
+load.xml
+class\load.xml

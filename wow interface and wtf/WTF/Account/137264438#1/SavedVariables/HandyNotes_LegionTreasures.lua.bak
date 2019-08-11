@@ -1,0 +1,13 @@
+
+HandyNotes_LegionTreasuresDB = {
+	["profileKeys"] = {
+		["Issie - Argent Dawn"] = "Issie - Argent Dawn",
+		["Brogene - Argent Dawn"] = "Brogene - Argent Dawn",
+	},
+	["profiles"] = {
+		["Issie - Argent Dawn"] = {
+		},
+		["Brogene - Argent Dawn"] = {
+		},
+	},
+}

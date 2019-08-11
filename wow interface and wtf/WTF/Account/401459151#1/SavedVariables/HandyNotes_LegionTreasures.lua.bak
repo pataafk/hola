@@ -1,0 +1,163 @@
+
+HandyNotes_LegionTreasuresDB = {
+	["profileKeys"] = {
+		["Shawz - Argent Dawn"] = "Shawz - Argent Dawn",
+		["Xpreach - Tarren Mill"] = "Xpreach - Tarren Mill",
+		["Blackparade - Silvermoon"] = "Blackparade - Silvermoon",
+		["Peteefk - Argent Dawn"] = "Peteefk - Argent Dawn",
+		["Frwfafas - Ragnaros"] = "Frwfafas - Ragnaros",
+		["Frfefrefe - Ragnaros"] = "Frfefrefe - Ragnaros",
+		["Preachsmash - Ragnaros"] = "Preachsmash - Ragnaros",
+		["Fewfef - Ragnaros"] = "Fewfef - Ragnaros",
+		["Defdvc - Ragnaros"] = "Defdvc - Ragnaros",
+		["Fefgtye - Ragnaros"] = "Fefgtye - Ragnaros",
+		["Chuggernuts - Tarren Mill"] = "Chuggernuts - Tarren Mill",
+		["Feggenz - Argent Dawn"] = "Feggenz - Argent Dawn",
+		["Deveeff - Ragnaros"] = "Deveeff - Ragnaros",
+		["Preacherino - Tarren Mill"] = "Preacherino - Tarren Mill",
+		["Frefwe - Ragnaros"] = "Frefwe - Ragnaros",
+		["Preachx - Tarren Mill"] = "Preachx - Tarren Mill",
+		["Préach - Ragnaros"] = "Préach - Ragnaros",
+		["Mastarace - Kazzak"] = "Mastarace - Kazzak",
+		["Fewfwye - Ragnaros"] = "Fewfwye - Ragnaros",
+		["Preách - Tarren Mill"] = "Preách - Tarren Mill",
+		["Sazhim - Argent Dawn"] = "Sazhim - Argent Dawn",
+		["Pataafk - Argent Dawn"] = "Pataafk - Argent Dawn",
+		["Zichanz - Argent Dawn"] = "Zichanz - Argent Dawn",
+		["Pataafk - Shattered Hand"] = "Pataafk - Shattered Hand",
+		["Preacherino - Ragnaros"] = "Preacherino - Ragnaros",
+		["Toutsweet - Tarren Mill"] = "Toutsweet - Tarren Mill",
+		["Peteafk - Argent Dawn"] = "Peteafk - Argent Dawn",
+		["Rogersmithz - Argent Dawn"] = "Rogersmithz - Argent Dawn",
+		["Preacheroo - Ragnaros"] = "Preacheroo - Ragnaros",
+		["Sulivan - Tarren Mill"] = "Sulivan - Tarren Mill",
+		["Chatmademe - Kazzak"] = "Chatmademe - Kazzak",
+		["Fishpreacher - Argent Dawn"] = "Fishpreacher - Argent Dawn",
+		["Preacho - Tarren Mill"] = "Preacho - Tarren Mill",
+		["Wowerick - Argent Dawn"] = "Wowerick - Argent Dawn",
+		["Preachez - Tarren Mill"] = "Preachez - Tarren Mill",
+		["Pataafkl - Tarren Mill"] = "Pataafkl - Tarren Mill",
+		["Préach - Tarren Mill"] = "Préach - Tarren Mill",
+		["Tyththt - Ragnaros"] = "Tyththt - Ragnaros",
+		["Preech - Tarren Mill"] = "Preech - Tarren Mill",
+		["Yuywue - Ragnaros"] = "Yuywue - Ragnaros",
+		["Therres - Argent Dawn"] = "Therres - Argent Dawn",
+		["Pataafkl - Argent Dawn"] = "Pataafkl - Argent Dawn",
+		["Bmimr - Ragnaros"] = "Bmimr - Ragnaros",
+		["Pataafk - Outland"] = "Pataafk - Outland",
+		["Swobuswagins - Tarren Mill"] = "Swobuswagins - Tarren Mill",
+		["Preachuibfa - Ragnaros"] = "Preachuibfa - Ragnaros",
+		["Bonebreaker - Silvermoon"] = "Bonebreaker - Silvermoon",
+		["Meticulous - Tarren Mill"] = "Meticulous - Tarren Mill",
+		["Fewewf - Ragnaros"] = "Fewewf - Ragnaros",
+		["Actore - Argent Dawn"] = "Actore - Argent Dawn",
+		["Olafz - Argent Dawn"] = "Olafz - Argent Dawn",
+		["Redeyez - Argent Dawn"] = "Redeyez - Argent Dawn",
+	},
+	["profiles"] = {
+		["Shawz - Argent Dawn"] = {
+		},
+		["Xpreach - Tarren Mill"] = {
+		},
+		["Blackparade - Silvermoon"] = {
+		},
+		["Peteefk - Argent Dawn"] = {
+		},
+		["Frwfafas - Ragnaros"] = {
+		},
+		["Frfefrefe - Ragnaros"] = {
+		},
+		["Preachsmash - Ragnaros"] = {
+		},
+		["Fewfef - Ragnaros"] = {
+		},
+		["Defdvc - Ragnaros"] = {
+		},
+		["Fefgtye - Ragnaros"] = {
+		},
+		["Chuggernuts - Tarren Mill"] = {
+		},
+		["Feggenz - Argent Dawn"] = {
+		},
+		["Deveeff - Ragnaros"] = {
+		},
+		["Preacherino - Tarren Mill"] = {
+		},
+		["Frefwe - Ragnaros"] = {
+		},
+		["Preachx - Tarren Mill"] = {
+		},
+		["Préach - Ragnaros"] = {
+		},
+		["Mastarace - Kazzak"] = {
+		},
+		["Fewfwye - Ragnaros"] = {
+		},
+		["Preách - Tarren Mill"] = {
+		},
+		["Sazhim - Argent Dawn"] = {
+		},
+		["Pataafk - Argent Dawn"] = {
+		},
+		["Zichanz - Argent Dawn"] = {
+		},
+		["Pataafk - Shattered Hand"] = {
+		},
+		["Preacherino - Ragnaros"] = {
+		},
+		["Toutsweet - Tarren Mill"] = {
+		},
+		["Peteafk - Argent Dawn"] = {
+		},
+		["Rogersmithz - Argent Dawn"] = {
+		},
+		["Preacheroo - Ragnaros"] = {
+		},
+		["Sulivan - Tarren Mill"] = {
+		},
+		["Chatmademe - Kazzak"] = {
+		},
+		["Fishpreacher - Argent Dawn"] = {
+		},
+		["Preacho - Tarren Mill"] = {
+		},
+		["Wowerick - Argent Dawn"] = {
+		},
+		["Preachez - Tarren Mill"] = {
+		},
+		["Pataafkl - Tarren Mill"] = {
+		},
+		["Préach - Tarren Mill"] = {
+		},
+		["Tyththt - Ragnaros"] = {
+		},
+		["Preech - Tarren Mill"] = {
+		},
+		["Yuywue - Ragnaros"] = {
+		},
+		["Therres - Argent Dawn"] = {
+		},
+		["Pataafkl - Argent Dawn"] = {
+		},
+		["Bmimr - Ragnaros"] = {
+		},
+		["Pataafk - Outland"] = {
+		},
+		["Swobuswagins - Tarren Mill"] = {
+		},
+		["Preachuibfa - Ragnaros"] = {
+		},
+		["Bonebreaker - Silvermoon"] = {
+		},
+		["Meticulous - Tarren Mill"] = {
+		},
+		["Fewewf - Ragnaros"] = {
+		},
+		["Actore - Argent Dawn"] = {
+		},
+		["Olafz - Argent Dawn"] = {
+		},
+		["Redeyez - Argent Dawn"] = {
+		},
+	},
+}

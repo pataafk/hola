@@ -1,0 +1,12 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+ElvUI_EverySecondCounts: disabled
+Azeroth Auto Pilot: disabled
+BigWigs_WrathOfTheLichKing: enabled
+BigWigs_Uldir: enabled
+BigWigs_Azeroth: enabled
+LittleWigs: enabled
+AAP-Core: disabled
+WeakAurasCompanion: enabled
+SPTimers: disabled

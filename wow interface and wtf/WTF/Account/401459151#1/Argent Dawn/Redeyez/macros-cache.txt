@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "ica potion" "135838"
+/cast Icy veins
+/use potion of prolonged power
+END
